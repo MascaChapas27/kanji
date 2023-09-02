@@ -10,6 +10,7 @@ class Kanji{
         std::string kanjiWriting;
         std::list<std::string> onyomi;
         std::list<std::string> kunyomi;
+        int readings;
 
     public:
         Kanji(std::string imagePath);
@@ -18,6 +19,8 @@ class Kanji{
         std::string getKanji();
         std::list<std::string> getOnyomi();
         std::list<std::string> getKunyomi();
+        int getReadings();
+        bool operator==(Kanji another);
 
 };
 

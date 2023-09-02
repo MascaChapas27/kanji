@@ -34,6 +34,8 @@
 		<Unit filename="kanji.cpp" />
 		<Unit filename="kanji.hpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="reading.cpp" />
+		<Unit filename="reading.hpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

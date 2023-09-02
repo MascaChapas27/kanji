@@ -421,3 +421,28 @@
 	<SFML/Graphics/Drawable.hpp>
 	<SFML/Window/GlResource.hpp>
 
+1693690031 source:/home/angel/Escritorio/kanji/kanji.cpp
+	"kanji.hpp"
+	<cstdarg>
+
+1693690004 /home/angel/Escritorio/kanji/kanji.hpp
+	<list>
+	<string>
+
+1693690139 source:/home/angel/Escritorio/kanji/main.cpp
+	"kanji.hpp"
+	<vector>
+	"reading.hpp"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<fstream>
+	<bits/stdc++.h>
+
+1693688253 source:/home/angel/Escritorio/kanji/reading.cpp
+	"reading.hpp"
+	<iostream>
+
+1693687246 /home/angel/Escritorio/kanji/reading.hpp
+	<string>
+
